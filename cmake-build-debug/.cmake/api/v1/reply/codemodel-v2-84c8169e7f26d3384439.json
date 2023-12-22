@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Simple_Calculator",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Simple_Calculator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Simple_Calculator-Debug-adb90501c745c72aab37.json",
+					"name" : "Simple_Calculator",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/shenjiarui/Documents/\u6211\u7684\u6587\u6863/\u6b66\u6c49\u7406\u5de5\u5927\u5b66/\u6b63\u5728\u5b66/\u6570\u636e\u7ed3\u6784A/\u6570\u636e\u7ed3\u6784\u5b9e\u9a8c/\u5b9e\u9a8c\u6e90\u4ee3\u7801/\u5b9e\u9a8c\u4e8c-\u6808\u548c\u961f\u5217\u53ca\u5176\u5e94\u7528/Simple_Calculator/cmake-build-debug",
+		"source" : "/Users/shenjiarui/Documents/\u6211\u7684\u6587\u6863/\u6b66\u6c49\u7406\u5de5\u5927\u5b66/\u6b63\u5728\u5b66/\u6570\u636e\u7ed3\u6784A/\u6570\u636e\u7ed3\u6784\u5b9e\u9a8c/\u5b9e\u9a8c\u6e90\u4ee3\u7801/\u5b9e\u9a8c\u4e8c-\u6808\u548c\u961f\u5217\u53ca\u5176\u5e94\u7528/Simple_Calculator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
